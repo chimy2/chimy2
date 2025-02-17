@@ -2,13 +2,9 @@
 
 
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chimy2&hide=contribs,prs&show_icons=true" width="62%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chimy2&layout=compact" width="36.5%">
-</p>
 
 <h2>🚀 Skills</h2>
-  <br>
+<br>
   
 <div align="center">
 
@@ -56,3 +52,9 @@
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fchimy2&count_bg=%231E2022&title_bg=%2384939D&icon=github.svg&icon_color=%231E2022&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
   
 </div>
+
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=chimy2&hide=contribs,prs&show_icons=true" width="62%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chimy2&layout=compact" width="36.5%">
+</p>
